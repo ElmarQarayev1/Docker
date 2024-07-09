@@ -1,0 +1,43 @@
+﻿<Properties StartupConfiguration="{B0D0A0F9-52FE-4E6A-8B5F-B5F6997A8805}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="DockerSqlMvc/Program.cs">
+    <Files>
+      <File FileName="../../../dockermvcSql/docker-compose.yml" Line="11" Column="21" />
+      <File FileName="DockerSqlMvc/Program.cs" Line="17" Column="1" />
+      <File FileName="DockerSqlMvc/Dockerfile" />
+      <File FileName="docker-compose.yml" Line="9" Column="1" />
+      <File FileName=".dockerignore" />
+      <File FileName="DockerSqlMvc/appsettings.json" Line="14" Column="1" />
+      <File FileName="DockerSqlMvc/Models/Product.cs" Line="12" Column="1" />
+      <File FileName="DockerSqlMvc/Data/AppDbContext.cs" Line="22" Column="7" />
+      <File FileName="DockerSqlMvc/Views/_ViewImports.cshtml" Line="1" Column="1" />
+      <File FileName="DockerSqlMvc/Views/_ViewStart.cshtml" Line="1" Column="1" />
+      <File FileName="../../../../../../Applications/Visual Studio.app/Contents/MonoBundle/AddIns/MonoDevelop.Docker/MSbuild/Sdks/Microsoft.Docker.Sdk/build/Microsoft.VisualStudio.Docker.Compose.targets" Line="202" Column="5" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DockerSqlMvc" expanded="True">
+            <Node name="docker-compose" expanded="True" />
+            <Node name="DockerSqlMvc" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Data" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True" />
+                <Node name="Shared" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.docker-compose PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.DockerSqlMvc PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+</Properties>

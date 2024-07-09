@@ -1,0 +1,11 @@
+version: '3.4'
+
+services:
+  webapp-ms-sql: 
+    image: mcr.microsoft.com/mssql/server:2017-latest-ubuntu
+    environment:
+      ACCEPT_EULA: "Y"
+      SA_PASSWORD: "Admin@123"
+      MSSQL_PID: Express
+    ports:
+       - "2433:1433"

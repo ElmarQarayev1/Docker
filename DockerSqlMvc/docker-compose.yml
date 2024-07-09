@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  dockersqlmvc:
+    image: ${DOCKER_REGISTRY-}dockersqlmvc
+    build:
+      context: .
+      dockerfile: DockerSqlMvc/Dockerfile
