@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  dockerr:
+    image: ${DOCKER_REGISTRY-}dockerr
+    build:
+      context: .
+      dockerfile: Dockerr/Dockerfile

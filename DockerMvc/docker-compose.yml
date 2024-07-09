@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  dockermvc:
+    image: ${DOCKER_REGISTRY-}dockermvc
+    build:
+      context: .
+      dockerfile: DockerMvc/Dockerfile

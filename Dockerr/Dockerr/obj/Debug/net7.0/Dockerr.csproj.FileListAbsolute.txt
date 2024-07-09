@@ -1,0 +1,15 @@
+/Users/elmar/Desktop/Dockerr/Dockerr/bin/Debug/net7.0/Dockerr
+/Users/elmar/Desktop/Dockerr/Dockerr/bin/Debug/net7.0/Dockerr.deps.json
+/Users/elmar/Desktop/Dockerr/Dockerr/bin/Debug/net7.0/Dockerr.runtimeconfig.json
+/Users/elmar/Desktop/Dockerr/Dockerr/bin/Debug/net7.0/Dockerr.dll
+/Users/elmar/Desktop/Dockerr/Dockerr/bin/Debug/net7.0/Dockerr.pdb
+/Users/elmar/Desktop/Dockerr/Dockerr/obj/Debug/net7.0/Dockerr.csproj.AssemblyReference.cache
+/Users/elmar/Desktop/Dockerr/Dockerr/obj/Debug/net7.0/Dockerr.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elmar/Desktop/Dockerr/Dockerr/obj/Debug/net7.0/Dockerr.AssemblyInfoInputs.cache
+/Users/elmar/Desktop/Dockerr/Dockerr/obj/Debug/net7.0/Dockerr.AssemblyInfo.cs
+/Users/elmar/Desktop/Dockerr/Dockerr/obj/Debug/net7.0/Dockerr.csproj.CoreCompileInputs.cache
+/Users/elmar/Desktop/Dockerr/Dockerr/obj/Debug/net7.0/Dockerr.dll
+/Users/elmar/Desktop/Dockerr/Dockerr/obj/Debug/net7.0/refint/Dockerr.dll
+/Users/elmar/Desktop/Dockerr/Dockerr/obj/Debug/net7.0/Dockerr.pdb
+/Users/elmar/Desktop/Dockerr/Dockerr/obj/Debug/net7.0/Dockerr.genruntimeconfig.cache
+/Users/elmar/Desktop/Dockerr/Dockerr/obj/Debug/net7.0/ref/Dockerr.dll

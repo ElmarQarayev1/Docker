@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{09956FA9-4BBE-4E79-9760-CB5956C606A4}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="DockerMvc/Program.cs">
+    <Files>
+      <File FileName="DockerMvc/Program.cs" Line="19" Column="1" />
+      <File FileName="DockerMvc/Dockerfile" Line="10" Column="34" />
+      <File FileName="docker-compose.yml" Line="8" Column="39" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DockerMvc" expanded="True">
+            <Node name="DockerMvc">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.DockerMvc PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" FirstBuild="True" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.docker-compose PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

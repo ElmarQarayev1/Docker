@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{5F644ADE-519C-436A-8B40-B00310B8193C}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Dockerr/Dockerfile">
+    <Files>
+      <File FileName="Dockerr/Program.cs" Line="4" Column="1" />
+      <File FileName="Dockerr/Dockerfile" Line="9" Column="51" />
+      <File FileName="../../../../Applications/Visual Studio.app/Contents/MonoBundle/AddIns/MonoDevelop.Docker/MSbuild/Sdks/Microsoft.Docker.Sdk/build/Microsoft.VisualStudio.Docker.Compose.targets" Line="202" Column="5" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Dockerr" expanded="True">
+            <Node name="Dockerr">
+              <Node name="Dockerfile" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Dockerr PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.docker-compose PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

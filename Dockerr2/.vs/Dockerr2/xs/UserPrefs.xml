@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{3A3C52C0-627F-41BF-A416-E946FDDA7EBC}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Dockerr2 FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Dockerr2/Dockerfile">
+    <Files>
+      <File FileName="Dockerr2/Program.cs" Line="4" Column="1" />
+      <File FileName="Dockerr2/Dockerfile" Line="21" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Dockerr2" expanded="True">
+            <Node name="Dockerr2">
+              <Node name="Dockerfile" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+</Properties>
